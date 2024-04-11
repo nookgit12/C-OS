@@ -1,0 +1,14 @@
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\bin\Debug\net8.0\C#OS.exe
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\bin\Debug\net8.0\C#OS.deps.json
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\bin\Debug\net8.0\C#OS.runtimeconfig.json
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\bin\Debug\net8.0\C#OS.dll
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\bin\Debug\net8.0\C#OS.pdb
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\obj\Debug\net8.0\C#OS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\obj\Debug\net8.0\C#OS.AssemblyInfoInputs.cache
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\obj\Debug\net8.0\C#OS.AssemblyInfo.cs
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\obj\Debug\net8.0\C#OS.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\obj\Debug\net8.0\C#OS.dll
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\obj\Debug\net8.0\refint\C#OS.dll
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\obj\Debug\net8.0\C#OS.pdb
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\obj\Debug\net8.0\C#OS.genruntimeconfig.cache
+C:\Users\Oliver\Uusi kansio\C#OS\C#OS\obj\Debug\net8.0\ref\C#OS.dll
