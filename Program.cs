@@ -7,8 +7,8 @@ namespace CSharpOS
     class Program
     {
         static string DeveloperName = "Oliver Hiivola";
-        static string BuildNumber = "0.5 Dev Beta";
-        static string BuildDate = "10.4.2024";
+        static string BuildNumber = "0.6 Refresh";
+        static string BuildDate = "12.12.2024";
 
         static HttpClient httpClient = new HttpClient();
 
